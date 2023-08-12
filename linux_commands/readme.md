@@ -1,6 +1,6 @@
 # Basic linux commands
 
-* ls - list users/groups
+* ls </h6>- list users/groups
 * cd - change directory
 * mkdir - make a directory
 * touch - creates a file
